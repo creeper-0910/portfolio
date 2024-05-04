@@ -7,9 +7,15 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    ContactView: typeof import('./src/components/contactView.vue')['default']
+    copy: typeof import('./src/components/IllustView copy.vue')['default']
+    Footer: typeof import('./src/components/Footer.vue')['default']
+    FooterMenu: typeof import('./src/components/FooterMenu.vue')['default']
     HeaderNav: typeof import('./src/components/HeaderNav.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     Home: typeof import('./src/components/Home.vue')['default']
+    Illust: typeof import('./src/components/Illust.vue')['default']
+    IllustView: typeof import('./src/components/IllustView.vue')['default']
     MainPage: typeof import('./src/components/MainPage.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']

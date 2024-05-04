@@ -4,13 +4,13 @@
       稲凪 咲(いなぎ さき)のサイト
     </v-app-bar-title>
     <template v-slot:append>
-      <v-btn>
+      <v-btn to="/">
         ホーム
       </v-btn>
-      <v-btn>
+      <v-btn to="/illust">
         今までのイラスト
       </v-btn>
-      <v-btn>
+      <v-btn to="/contact">
         連絡先
       </v-btn>
     </template>
