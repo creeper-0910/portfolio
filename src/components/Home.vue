@@ -30,13 +30,11 @@
     </v-row>
     </v-container>
     <v-divider class="divider-margin"></v-divider>
-
-
   </div>
 </template>
 
 <script setup lang="ts">
-//
+
 </script>
 
 <style>
