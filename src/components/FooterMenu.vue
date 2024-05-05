@@ -10,6 +10,15 @@ if(now_y != "2024") {
 <template>
   <v-divider class="divider-margin"></v-divider>
   <div class="footer-font footer-margin">
+    <v-col>
+      <v-row>
+        相互リンク
+      </v-row>
+      <v-row>
+        <a href="https://nullnyat.nca10.moe/"><img src="https://nullnyat.nca10.moe/nullnyat-banner.png"/></a>
+        <!-- 今後はここに追加 -->
+      </v-row>
+    </v-col>
     {{ year }} inagi saki
     </div>
 </template>
