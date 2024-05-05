@@ -23,7 +23,7 @@
         <font size="5">github: <a href="https://github.com/creeper-0910">creeper-0910</a></font>
       </v-row>
       <v-row class="d-flex flex-row justify-center title-margin">
-        <font size="5">メールアドレス:　非公開</font>
+        <font size="5">メールアドレス: 非公開</font>
       </v-row>
     </v-col>
     </v-container>
