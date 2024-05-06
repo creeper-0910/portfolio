@@ -15,7 +15,7 @@ if(now_y != "2024") {
         相互リンク
       </v-row>
       <v-row>
-        <a href="https://nullnyat.nca10.moe/"><img alt="nullnyat_banner" src="https://nullnyat.nca10.moe/nullnyat-banner.png"/></a>
+        <a href="https://nullnyat.nca10.moe/"><img alt="nullnyat_banner" src="https://nullnyat.nca10.moe/nullnyat-banner.webp"/></a>
         <a href="https://miriel.net"><img alt="miriel_banner" src="https://miriel.net/images/mirielnet.png"/></a>
         <!-- 今後はここに追加 -->
       </v-row>

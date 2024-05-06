@@ -4,7 +4,7 @@
       <v-row no-gutters align="start" class="custom-font">
       <v-spacer></v-spacer>
       <v-col cols="12" sm="2" md="2" lg="2" xl="2" class="d-flex flex-row justify-center avater-margin">
-        <v-avatar image="@/assets/avater.png" size="180"></v-avatar>
+        <v-avatar image="@/assets/avater.webp" size="180"></v-avatar>
       </v-col>
       <v-spacer></v-spacer>
       <v-col cols="12" sm="3.5" md="4" lg="4" xl="4">
