@@ -15,7 +15,8 @@ if(now_y != "2024") {
         相互リンク
       </v-row>
       <v-row>
-        <a href="https://nullnyat.nca10.moe/"><img src="https://nullnyat.nca10.moe/nullnyat-banner.png"/></a>
+        <a href="https://nullnyat.nca10.moe/"><img alt="nullnyat_banner" src="https://nullnyat.nca10.moe/nullnyat-banner.png"/></a>
+        <a href="https://miriel.net"><img alt="miriel_banner" src="https://miriel.net/images/mirielnet.png"/></a>
         <!-- 今後はここに追加 -->
       </v-row>
       <v-row>
@@ -23,7 +24,7 @@ if(now_y != "2024") {
         連絡先のいずれかへご連絡ください。
       </v-row>
       <v-row>
-        <img src="https://inagi-saki.work/banner.png"/>
+        <img alt="inagi_banner" src="https://inagi-saki.work/banner.png"/>
       </v-row>
     </v-col>
     {{ year }} inagi saki

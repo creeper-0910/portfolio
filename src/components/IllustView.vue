@@ -14,7 +14,7 @@
     <v-container>
       <v-row>
           <v-col cols="6" v-for="illusts in illust_url" :key="illusts.key">
-            <v-img :src="illusts"/>
+            <v-img alt="inagi illust" :src="illusts"/>
           </v-col>
     </v-row>
   </v-container>
