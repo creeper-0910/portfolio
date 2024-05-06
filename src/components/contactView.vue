@@ -10,6 +10,9 @@
     <v-container>
       <v-col no-gutters align="start" class="custom-font">
       <v-row class="d-flex flex-row justify-center title-margin">
+        <font size="5">Youtube: <a href="https://youtube.com/@inagi_saki?si=xuCUvp219f-99YK_">@inagi_saki</a></font>
+      </v-row>
+      <v-row class="d-flex flex-row justify-center title-margin">
         <font size="5">Twitter(旧X): <a href="https://twitter.com/Riku_2004">@Riku_2004</a></font>
       </v-row>
       <v-row class="d-flex flex-row justify-center title-margin">
