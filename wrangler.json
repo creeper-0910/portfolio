@@ -20,7 +20,7 @@
         "bucket_name": "article"
       }
   ],
-  "vars": { "NODE_VERSION": "22" }
+  "vars": { "NODE_VERSION": "22.14.0" }
   /**
    * Smart Placement
    * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
