@@ -46,7 +46,7 @@
 <Footer class="mb-3 ml-5 mr-5 font-kanaka tracking-wide">
 	<div class="sm:flex sm:items-end sm:justify-between">
 			<FooterCopyright href="/" by="Inagi Saki" year={year} />
-			<div class="flex">
+			<div class="flex flex-col md:flex-row">
 				<a href="https://nullnyat.nca10.moe/"><img alt="nullnyat_banner" src="https://nullnyat.nca10.moe/nullnyat-banner.webp" class="mb-2 mr-2 max-h-14"></a>
 				<a href="https://miriel.net"><img alt="miriel_banner" src="https://miriel.net/images/mirielnet.png" class="mb-2 mr-2 max-h-14"></a>
 				<a href="https://inagi-saki.work/"><img src="/images/banner.png" alt="咲の仕事場" class="mb-2 mr-2 max-h-14"/></a>
